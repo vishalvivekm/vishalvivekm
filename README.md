@@ -4,19 +4,27 @@
 **vishalvivekm/vishalvivekm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishalvivekm&show_icons=true&count_private=true" />
+-->
+## Introduction
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+  
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Nodejs or Go
+- 📫 Reach me: vishalvivek488@gmail.com
+- 
+  <!-- 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishalvivekm&show_icons=true&count_private=true" alt="Vivek's stats"/>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishalvivekm&show_icons=true&count_private=true" />
+<div>
 <!-- <a href="https://meshery.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges" title="Hacktoberfest Contributor">
     <img width="210px" height="260px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt="Hacktoberfest Contributor" /> -->
   <!--  <a href="https://meshery.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges" title="Meshery Contributor">
@@ -34,6 +42,4 @@ Here are some ideas to get you started:
  <a href= "https://meshery.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges">
     <img width="210px" height="260px" src = "https://badges.layer5.io/assets/badges/community/community.png" alt = "Community" title="Community"/>
   </a >
-
-
-
+</div>
