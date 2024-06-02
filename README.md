@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishalvivekm&show_icons=true&count_private=true" alt="Vivek's stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishalvivekm&rank_icon=github&show_icons=true&count_private=true" align="right" />
 
 ### Introduction
 
@@ -11,6 +11,7 @@
 
 ---
 
+### Contributor badges
 <div>
   
   <a href="https://meshery.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges" title="Meshery Contributor">
