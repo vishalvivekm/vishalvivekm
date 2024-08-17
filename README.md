@@ -27,6 +27,6 @@
   </a >
 </div>
 
-<img src="https://leetcard.jacoblin.cool/vishalvivekm?ext=heatmap&animation=true" />
+<!-- <img src="https://leetcard.jacoblin.cool/vishalvivekm?ext=heatmap&animation=true" /> -->
 
   
