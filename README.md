@@ -14,15 +14,15 @@
 ### Contributor badges
 <div>
   
-  <a href="https://meshery.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges" title="Meshery Contributor">
+  <a href="https://cloud.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges" title="Meshery Contributor">
     <img width="210px" height="260px" src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt="Meshery Contributor" />
   </a>
-  <a href="https://meshery.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges" title="Continuous Contributor">
+  <a href="https://cloud.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges" title="Continuous Contributor">
     <img width="210px" height="260px" src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor" />
   </a>
 <!--   <a id="image" href="https://meshery.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges" title="Meshery Catalog">
     <img width="210px" height="260px" src="https://badges.layer5.io/assets/badges/meshery-catalog/meshery-catalog.png" alt="Meshery Catalog" /></a> -->
- <a href= "https://meshery.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges">
+ <a href= "https://cloud.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges">
     <img width="210px" height="260px" src = "https://badges.layer5.io/assets/badges/community/community.png" alt = "Community" title="Community"/>
   </a >
 </div>
