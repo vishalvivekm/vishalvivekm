@@ -10,7 +10,7 @@
 - 💬 Ask me about Nodejs or Go
 
 ---
-<details><summary><h4>Contributor badges:</h4></summary>
+<details style="color: red;"><summary>Contributor badges</summary>
   <a href="https://cloud.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges" title="Meshery Contributor">
     <img width="210px" height="260px" src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt="Meshery Contributor" />
   </a>
@@ -22,15 +22,13 @@
  <a href= "https://cloud.layer5.io/user/878488d5-c394-4b04-91b4-fd2f9e67ffaf?tab=badges">
     <img width="210px" height="260px" src = "https://badges.layer5.io/assets/badges/community/community.png" alt = "Community" title="Community"/>
   </a >
-</details><details><summary><h4>GitHub dashboard</h4></summary>
-
+</details><details><summary>GitHub dashboard</summary>
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=110674407" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110674407&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @vishalvivekm" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110674407&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
 </details>
 
 <a href="https://www.linkedin.com/in/vishalvivekm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/vishalvivekm-0077B5?logo=linkedin&logoColor=white"/></a>
