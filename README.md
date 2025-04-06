@@ -35,7 +35,7 @@
 <a href="https://github.com/vishalvivekm" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/vishalvivekm-100000?logo=github&logoColor=white" /></a>
 <a href="mailto:vishalvivek488@gmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/vishalvivek488@gmail.com-D14836?logo=gmail&logoColor=white" /></a>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvishalvivekm1212%2Fhit-counter" alt="Hit Counter" />
-
+![](https://komarev.com/ghpvc/?username=vishalvivekm&color=green)
 <!-- <img src="https://leetcard.jacoblin.cool/vishalvivekm?ext=heatmap&animation=true" /> -->
 ##
 
